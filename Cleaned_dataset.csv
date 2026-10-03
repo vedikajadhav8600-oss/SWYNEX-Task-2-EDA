@@ -1,0 +1,13 @@
+Customer_ID,Name,Age,City,Purchase_Amount,Purchase_Date
+1,Aarav,25,Mumbai,250.5,2023-01-15
+2,Sneha,28,Delhi,150.0,2023-02-20
+3,Rohan,22,Pune,300.0,2023-03-10
+4,Anjali,26,Mumbai,120.0,2023-04-05
+5,Vikram,30,Delhi,200.0,2023-05-12
+6,Pooja,24,Pune,180.75,2023-06-18
+7,Aman,27,Bangalore,220.0,2023-07-22
+8,Neha,23,Mumbai,145.5,2023-08-30
+9,Rahul,29,Pune,210.0,2023-09-14
+10,Isha,25,Delhi,175.25,2023-10-10
+11,Karan,26,Mumbai,195.0,2023-11-11
+12,Tanya,28,Pune,400.75,2023-12-01
